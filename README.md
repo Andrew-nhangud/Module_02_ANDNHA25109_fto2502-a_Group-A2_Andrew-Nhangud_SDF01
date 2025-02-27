@@ -8,9 +8,9 @@
 
 ## 🎯 About Me
 
-- 💡 I'm currently learning **GitHub and version control** before diving into coding.
-- 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
+- 💡 I'm currently learing advance css.
+- 🎓 I'm self taught in html and css.
+- 🤖 I love challenges as they are my therapy.
 - 🔥 Looking forward to building my first real-world application.
 
 ---
