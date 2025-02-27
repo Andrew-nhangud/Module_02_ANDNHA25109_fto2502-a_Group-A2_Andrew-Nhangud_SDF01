@@ -71,7 +71,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Andrew-nhangud?tab=repositories)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-nhangud-149219352/)  
-📧 Email: [youremail@example.com](mailto:Andrewnhangud3785@gmail.com)
+📧 Email: [Andrewnhangud3785@gmail.com](mailto:Andrewnhangud3785@gmail.com)
 
 ---
 
