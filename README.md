@@ -1,4 +1,4 @@
-# [SDF01] the beginning of big things🚀
+# The beginning of big things🚀
 
 # 👋 Hi, I'm Andrew
 
