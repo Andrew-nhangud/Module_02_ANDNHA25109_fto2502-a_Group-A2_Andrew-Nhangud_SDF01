@@ -23,10 +23,11 @@
 
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
  
- - ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3)
+- ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3)
+
 **Future Technologies:**
 
--![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
 
 - ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
 
@@ -68,15 +69,15 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Andrew-nhangud?tab=repositories)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-nhangud-149219352/)  
+📧 Email: [youremail@example.com](mailto:Andrewnhangud3785@gmail.com)
 
 ---
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+💡 I'm always ahead of I have to learn
 
 ---
 
