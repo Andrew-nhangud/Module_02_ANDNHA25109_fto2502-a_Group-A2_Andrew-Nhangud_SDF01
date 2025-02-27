@@ -1,6 +1,6 @@
-# [SDF01] Challenge: My First Repo 🚀
+# [SDF01] the beginning of big things🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Andrew
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
