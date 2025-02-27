@@ -8,7 +8,7 @@
 
 ## 🎯 About Me
 
-- 💡 I'm currently learing advance css.
+- 💡 I'm currently learning advance css, git and github.
 - 🎓 I'm self taught in html and css.
 - 🤖 I love challenges as they are my therapy.
 - 🔥 Looking forward to building my first real-world application.
@@ -22,10 +22,12 @@
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
-
+ 
+ - ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3)
 **Future Technologies:**
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3), ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
+-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
+
 - ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
 
 ---
@@ -58,8 +60,8 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📚 Learning Goals
 
-- 🚀 Get comfortable using Git and GitHub
-- 🎨 Learn HTML, CSS, and JavaScript
+- 🚀 Get comfortable using css
+- 🎨 Learn JavaScript and frameworks
 - 💡 Build real-world projects and collaborate with others
 
 ---
