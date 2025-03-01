@@ -6,7 +6,7 @@
 
 ---
 
-## About Me
+## 🎯About Me
 
 - 💡 I'm currently learning advance css, git and github.
 - 🎓 I'm self taught in html and css.
